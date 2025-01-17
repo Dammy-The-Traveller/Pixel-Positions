@@ -1,0 +1,5 @@
+Feature test => as testing a white spectrum of your application like this -> when i visit such and such page i am expect to see that or when i make a post request to this controller validation should occur or i should see such and such in the database
+
+Unit test => when instiated this class and i call that method then i expect such and such in response
+
+we started with designing of the page, then our database then seeding of the database, then authentication
